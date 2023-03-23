@@ -58,7 +58,7 @@ Building the Hedge set are more or less straight forward except for derivatives 
 
 ![alt text](https://github.com/henrik-lauritsen-ch/Pictures/blob/main/whitespace2.png)
 ## Import of financial data into the engine
-The code assumes a certain structure of the input data in order to work. Also attribute names are hard coded. The [CSV-File](https://github.com/henrik-lauritsen-ch/SACCR-BCBS279/blob/main/base_data_saccr.csv) contains a small derivatives portfolio that can be applied for testing purposes. The names in the cvs-file are expected for the code to work. Further, we have provided a file containing data that calculates example 1 and 3 as shown in [bcbs279, Annex 4a](https://github.com/henrik-lauritsen-ch/SACCR-BCBS279/blob/main/ bcbs279_annex4a_data.csv).
+The code assumes a certain structure of the input data in order to work. Also attribute names are hard coded. The [CSV-File](https://github.com/henrik-lauritsen-ch/SACCR-BCBS279/blob/main/base_data_saccr.csv) contains a small derivatives portfolio that can be applied for testing purposes. The names in the cvs-file are expected for the code to work. Further, we have provided a file containing data that calculates example 1 and 3 as shown in [bcbs279, Annex 4a](https://github.com/henrik-lauritsen-ch/SACCR-BCBS279/blob/main/bcbs279_annex4a_data.csv).
 
 
 ![alt text](https://github.com/henrik-lauritsen-ch/Pictures/blob/main/whitespace2.png)
