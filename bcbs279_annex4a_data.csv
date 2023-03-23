@@ -1,0 +1,7 @@
+﻿Netting_Set,Asset_Class,Notional_Receive_Leg,Notional_Pay_Leg,CCY_Receive_Leg,CCY_Pay_Leg,Product_Type,Settlement_Type,Call_Put,Buy_Sell,Underlying_ID,Underlying_Asset,Commodity_Type,Underlying_Price,Underlying_Strike,Underlying_Quoted_CCY,Market_Value,Collateral_Cover_Value,Number_of_Contracts,Market_Price,Underlying_Tenor,Maturity
+bcbs279_ex3,CO,,,USD,USD,FWD,,,B,WTI,OIL,ENERGY,,,,-50,0,100,100,0,0.75
+bcbs279_ex3,CO,,,USD,USD,FWD,,,S,BRENT,OIL,ENERGY,,,,-30,0,200,100,0,2
+bcbs279_ex3,CO,,,USD,USD,FWD,,,B,SILVER,MOTAL,METAL,,,,100,0,50,200,0,5
+bcbs279_ex1,IR,10000,10000,USD,USD,SWP,,,B,,,,,,,30,0,,,,10
+bcbs279_ex1,IR,10000,10000,USD,USD,SWP,,,S,,,,,,,-20,0,,,,4
+bcbs279_ex1,IR,5000,5000,EUR,EUR,OPT,PHYS,P,B,,,,0.06,0.05,,50,0,,,10,1
