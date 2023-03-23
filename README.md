@@ -4,7 +4,7 @@
 
 ![alt text](https://github.com/henrik-lauritsen-ch/Pictures/blob/main/bis_logo.png)
 
-The SACCR repositry contains two python files that together calculated the counterparty exposure values for a derivatives portfolio of a financial institution. The calculation is run from the [Python Engine](https://github.com/henrik-lauritsen-ch/SACCR-BCBS279/blob/main/saccr_engine.py). Main engine imports the [SACCR Library](https://github.com/henrik-lauritsen-ch/SACCR-BCBS279/blob/main/saccr_engine.py) where general parameters of the method along with delta calculation and special functionality that is needed to deal with the so called Hedge set construction for FX derivatives (see below) is defined.
+The SACCR repositry contains two python files that together calculated the counterparty exposure values for a derivatives portfolio of a financial institution. The calculation is run from the [Python Engine](https://github.com/henrik-lauritsen-ch/SACCR-BCBS279/blob/main/saccr_engine.py). Main engine imports the [SACCR Library](https://github.com/henrik-lauritsen-ch/SACCR-BCBS279/blob/main/saccr_lib.py) where general parameters of the method along with delta calculation and special functionality that is needed to deal with the so called Hedge set construction for FX derivatives (see below) is defined.
 
 
 ![alt text](https://github.com/henrik-lauritsen-ch/Pictures/blob/main/whitespace2.png)
