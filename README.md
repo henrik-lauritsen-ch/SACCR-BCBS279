@@ -36,7 +36,7 @@ and where __Floor__ a constant set to 5%.
   
   
 ### Asset Classes
-Under the SACCR method five asset classes have been defined: Interest rate, Foreign Exchange, Credit, Equity and Commodity. Each of the five asset classes have a specific method for calculating the Add-On value. The Add-on values are positive (hence, no Netting between asset classes for the PFE calculation):
+Under the SACCR method five asset classes have been defined: __Interest rate__, __Foreign Exchange__, __Credit__, __Equity__ and __Commodity__. Each of the five asset classes have a specific method for calculating the Add-On value. The Add-on values are positive (hence, no Netting between asset classes for the PFE calculation):
 
 ![Add-On](https://github.com/henrik-lauritsen-ch/Pictures/blob/main/bcbs279_addonagg.png)
 
