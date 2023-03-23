@@ -43,7 +43,7 @@ Under the SACCR method five asset classes have been defined: __Interest rate__, 
 
 
 ### Hedge Sets
-Under each of the five asset classes a more granular level called the Hedge set is defined. Within a Hedge set there is in general full Netting between short and long position. For commodities this is not quite the case. Please see [BSBC279](https://github.com/henrik-lauritsen-ch/SACCR-BCBS279/blob/main/bcbs279.pdf) for details on how to construct Hedge set. 
+Under each of the five asset classes a more granular level called the Hedge set is defined. Within a Hedge set there is in general full Netting between short and long position. For commodities this is not quite the case. Please see [BCBS279](https://github.com/henrik-lauritsen-ch/SACCR-BCBS279/blob/main/bcbs279.pdf) for details on how to construct Hedge set. 
 
 Building the Hedge set are more or less straight forward except for derivatives under the Foreign Exchange (FX) asset class where the following should be take into consideration:
 
