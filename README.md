@@ -1,4 +1,4 @@
-# SACCR - [BSBC279](https://github.com/henrik-lauritsen-ch/SACCR-BCBS279/blob/main/bcbs279.pdf)
+# SACCR - [BCBS279](https://github.com/henrik-lauritsen-ch/SACCR-BCBS279/blob/main/bcbs279.pdf)
 
 ![alt text](https://github.com/henrik-lauritsen-ch/Pictures/blob/main/bcbs279_title.png)
 
